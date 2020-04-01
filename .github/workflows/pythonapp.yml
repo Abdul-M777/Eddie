@@ -24,6 +24,6 @@ jobs:
       uses: actions/upload-artifact@v1.0.0
       with:
         # Artifact name
-        name: pythonapp.zip
+        name: pythonapp.yml
         # Directory containing files to upload
-        path: ./
+        path: artifact
