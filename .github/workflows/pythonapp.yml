@@ -26,4 +26,4 @@ jobs:
         # Artifact name
         name: pythonapp.yml
         # Directory containing files to upload
-        path: artifact
+        path: artifacts
