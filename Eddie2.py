@@ -125,3 +125,5 @@ if dur < 60:
     print('time: %.0f s'%dur)
 else:
     print('time: %.0f min'%(dur/60.))
+
+print("Hello world")
